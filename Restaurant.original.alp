@@ -1226,6 +1226,9 @@
 						<Point><X>0</X><Y>-120</Y></Point>
 						<Point><X>0</X><Y>-95</Y></Point>
 						<Point><X>-3.378</X><Y>-144.771</Y></Point>
+						<Point><X>-3</X><Y>-142</Y></Point>
+						<Point><X>0.378</X><Y>-117.229</Y></Point>
+						<Point><X>57</X><Y>-142</Y></Point>
 					</Points>
 					<ExceededQueuePolicy>EXTEND_QUEUE_TO_THE_FREE_SPACE</ExceededQueuePolicy>
 				</QueueLine>
